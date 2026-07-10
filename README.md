@@ -217,14 +217,26 @@ Completed multiple industry-focused job simulations from leading organizations, 
 * 💻 Completed multiple industry job simulations and practical projects
 * 👩‍💻 Applied programming, analytics, and AI skills through hands-on development
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petrisha2005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrisha2005&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=petrisha2005&theme=tokyonight&hide_border=true" />
 </p>
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrisha2005&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
+<a href="https://www.linkedin.com/in/petrisha-v-a038a1358/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Petrisha%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/petrisha2005" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-petrisha2005-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:petrishavp74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-petrishavp74%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
