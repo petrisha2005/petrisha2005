@@ -75,3 +75,93 @@ Building Intelligent Products for Real-World Impact 🚀
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🛡️ TaxShield AI — AI-Powered Tax Planning & Investment Platform
+
+Developed an AI-powered financial planning platform that compares tax regimes, generates personalized tax-saving recommendations, and suggests investment strategies based on user risk profiles.
+
+**Key Features:**
+
+* Tax regime comparison
+* AI-based tax-saving recommendations
+* Personalized investment suggestions
+* Conservative, moderate, and aggressive portfolio generation
+
+**Tech Stack:**
+TypeScript • React.js • Vite • HTML • CSS • Vercel
+
+---
+
+### ✈️ TravelSync AI — Autonomous AI Travel Companion & Execution Agent
+
+Designed an AI-powered travel assistant that helps users plan, optimize, and manage their complete travel experience through intelligent AI workflows.
+
+**Workflow:**
+
+* User provides destination, preferences, budget, and travel requirements
+* AI generates personalized itineraries
+* Optimizes budget and travel plans
+* Provides local recommendations and guidance
+* Supports language assistance and real-time travel adaptation
+* Enables smarter group travel coordination
+
+**Tech Stack:**
+Gemini AI • React • Node.js • MongoDB • Google Cloud
+
+---
+
+### 🌱 CarbonTwin AI — AI-Powered Carbon Footprint Awareness Platform
+
+Built a full-stack sustainability platform that helps users monitor and reduce their environmental impact through activity tracking and AI-powered validation.
+
+**Key Features:**
+
+* Daily carbon activity logging
+* Carbon footprint tracking
+* Budget monitoring
+* Eco missions and challenges
+* Proof upload with OCR validation
+* Battle mode for user engagement
+* Secure authentication system
+
+**Tech Stack:**
+React • Vite • Node.js • Express • MongoDB Atlas • JWT • OCR • Render • Vercel
+
+---
+
+### 📊 Data Analyst Internship Projects — Elevate Labs
+
+Completed real-world data analytics projects focused on extracting business insights from large datasets.
+
+**Work Included:**
+
+* Data cleaning and preprocessing
+* Exploratory data analysis
+* SQL analysis using advanced queries
+* Power BI dashboards and DAX measures
+* Tableau visualizations
+* Customer segmentation using RFM analysis
+* Business insights and reporting
+
+**Tools:**
+Python • SQL • Excel • Power BI • Tableau • Pandas • PostgreSQL
+
+---
+
+### 📈 Smart Stock Portfolio Dashboard — Java Project
+
+Developed a Java-based stock market prediction and portfolio management application with an interactive dashboard.
+
+**Key Features:**
+
+* Stock market data integration
+* Portfolio management
+* Market analysis
+* Interactive JavaFX dashboard
+* Data visualization for investment insights
+
+**Tech Stack:**
+Java • JavaFX • API Integration • Data Visualization
+
