@@ -30,3 +30,48 @@ Building Intelligent Products for Real-World Impact 🚀
 - Advanced Data Structures & Algorithms
 - Data Visualization and Analytics
 - Building scalable AI applications
+
+- ## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
+</p>
+
+### 🤖 AI & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Predictive Analytics
+- Generative AI
+- AI Agents
+
+### 🌐 Development & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,fastapi" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,aws" />
+</p>
+
+### 📊 Analytics Tools
+
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
