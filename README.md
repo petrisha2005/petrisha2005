@@ -217,4 +217,17 @@ Completed multiple industry-focused job simulations from leading organizations, 
 * 💻 Completed multiple industry job simulations and practical projects
 * 👩‍💻 Applied programming, analytics, and AI skills through hands-on development
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petrisha2005&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrisha2005&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrisha2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
