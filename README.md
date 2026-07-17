@@ -31,6 +31,20 @@ Building Intelligent Products for Real-World Impact 🚀
 - Data Visualization and Analytics
 - Building scalable AI applications
 
+## 🚧 Currently Building
+
+### 🏟️ FluxGuard AI — AI Stadium Operations Command Center
+Building an intelligent event management platform that uses AI-driven insights, predictive analytics, and real-time monitoring to help manage large-scale stadium operations. The system focuses on crowd risk prediction, emergency coordination, resource allocation, and AI-powered operational assistance.
+
+**Tech:** React, TypeScript, FastAPI, WebSockets, AI Analytics, Database Systems
+
+---
+
+### ✈️ TravelSync AI — Autonomous AI Travel Companion
+Developing a multi-agent AI travel assistant that helps users plan, optimize, and execute their journeys. The platform uses specialized AI agents for trip planning, accommodation, budgeting, local guidance, translation, and personalized travel assistance.
+
+**Tech:** Gemini AI, React, Node.js, MongoDB, AI Agents, Cloud Services
+
 - ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
