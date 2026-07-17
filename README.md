@@ -45,7 +45,8 @@ Developing a multi-agent AI travel assistant that helps users plan, optimize, an
 
 **Tech:** Gemini AI, React, Node.js, MongoDB, AI Agents, Cloud Services
 
-- ## 🛠️ Tech Stack
+- 
+## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
 <p>
@@ -90,58 +91,80 @@ Developing a multi-agent AI travel assistant that helps users plan, optimize, an
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
+-
 ## 🚀 Featured Projects
 
-### 🛡️ TaxShield AI — AI-Powered Tax Planning & Investment Platform
+These are some of the AI-powered systems I have designed and developed across domains including supply chain, public safety, sustainability, finance, and astronomy.
 
-Developed an AI-powered financial planning platform that compares tax regimes, generates personalized tax-saving recommendations, and suggests investment strategies based on user risk profiles.
+### 📦 SupplyPulse AI — AI Supply Chain Intelligence Platform
+An AI-powered supply chain intelligence platform designed for D2C businesses to improve inventory planning and operational decisions. The platform uses demand forecasting, risk scoring, and analytics to predict stock requirements, identify supply risks, and provide actionable insights.
 
 **Key Features:**
+- 📈 AI-based demand forecasting
+- ⚠️ Inventory risk prediction
+- 🚚 Supplier performance analysis
+- 📊 Sales and trend analytics
+- 🎯 Event-based demand adjustment
 
-* Tax regime comparison
-* AI-based tax-saving recommendations
-* Personalized investment suggestions
-* Conservative, moderate, and aggressive portfolio generation
+**Tech Stack:** React, Node.js, MongoDB, BigQuery, AI/ML Analytics
 
-**Tech Stack:**
-TypeScript • React.js • Vite • HTML • CSS • Vercel
 
 ---
 
-### ✈️ TravelSync AI — Autonomous AI Travel Companion & Execution Agent
+### 🛡️ CrimePulse AI — AI Crime Intelligence & Analytics Platform
+An intelligent crime analytics platform that transforms raw crime datasets into actionable insights. It helps identify crime patterns, analyze hotspots, visualize trends, and generate intelligence reports using data analytics and AI-driven insights.
 
-Designed an AI-powered travel assistant that helps users plan, optimize, and manage their complete travel experience through intelligent AI workflows.
+**Key Features:**
+- 📂 Crime dataset processing
+- 🗺️ Crime hotspot visualization
+- 📊 Pattern and trend analysis
+- 🔮 Risk intelligence generation
+- 📄 Automated analytics reports
 
-**Workflow:**
+**Tech Stack:** React, FastAPI, Python, Data Analytics, Machine Learning, Zoho Catalyst
 
-* User provides destination, preferences, budget, and travel requirements
-* AI generates personalized itineraries
-* Optimizes budget and travel plans
-* Provides local recommendations and guidance
-* Supports language assistance and real-time travel adaptation
-* Enables smarter group travel coordination
-
-**Tech Stack:**
-Gemini AI • React • Node.js • MongoDB • Google Cloud
 
 ---
 
-### 🌱 CarbonTwin AI — AI-Powered Carbon Footprint Awareness Platform
-
-Built a full-stack sustainability platform that helps users monitor and reduce their environmental impact through activity tracking and AI-powered validation.
+### 🌌 Exoplanet AI — Machine Learning-Based Exoplanet Detection System
+A machine learning application that analyzes NASA telescope data to identify potential exoplanets. The system processes stellar light curves, applies ML models, and provides explainable predictions for astronomical discovery.
 
 **Key Features:**
+- 🔭 NASA/MAST astronomical data processing
+- 📉 Light curve analysis
+- 🤖 Machine learning classification
+- 🧠 Explainable AI predictions
+- 📊 Interactive visualization dashboard
 
-* Daily carbon activity logging
-* Carbon footprint tracking
-* Budget monitoring
-* Eco missions and challenges
-* Proof upload with OCR validation
-* Battle mode for user engagement
-* Secure authentication system
+**Tech Stack:** Python, Random Forest, Lightkurve, Astropy, Streamlit, Machine Learning
 
-**Tech Stack:**
-React • Vite • Node.js • Express • MongoDB Atlas • JWT • OCR • Render • Vercel
+
+---
+
+### 🌱 CarbonTwin AI — AI Sustainability Digital Twin Platform
+A sustainability intelligence platform that uses digital twin concepts and AI analytics to help monitor environmental impact and generate data-driven sustainability insights.
+
+**Key Features:**
+- 🌍 Carbon impact monitoring
+- 📊 Sustainability analytics
+- 🔍 Data visualization
+- 💡 AI-driven insights and recommendations
+
+**Tech Stack:** React, Node.js, Express, MongoDB, AI Analytics
+
+
+---
+
+### 💰 TaxShield AI — Intelligent Tax Assistance Platform
+An AI-powered tax assistance application designed to simplify tax-related analysis and provide users with intelligent financial guidance through automation and AI capabilities.
+
+**Key Features:**
+- 🧾 Tax information analysis
+- 🤖 AI-assisted guidance
+- 📊 Financial insights
+- 🌐 Interactive user interface
+
+**Tech Stack:** TypeScript, React, Vite, AI APIs
 
 ---
 
