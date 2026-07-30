@@ -257,7 +257,7 @@ Completed multiple industry-focused job simulations from leading organizations, 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=petrisha2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=petrisha2005&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 <p align="center">
